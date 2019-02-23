@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/2b/7b/c7/2b7bc7c14c163b95b3eac3c871bdd841.jpg)
+}
+.container {
+    display: flex
+    justify-content: center;
+}
+.center {
+    width: 800px;
+}
+#content {
+    text-align: center;
+}
+h3 {
+    color: #420D09
+}
+h5 {
+    color: #B83B23
+}

@@ -1,0 +1,11 @@
+body {
+    background-image: url(envelope.png)
+}
+div {
+
+    position: fixed;
+    top: 77%;
+    left: 33.7%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
